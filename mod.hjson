@@ -11,6 +11,6 @@
   "bullets/ChatGTP.hjson" // ファイル名を一致させる
 　]
   weapons: [
-    "weapons/chatgtp-weapon.hjson" // 武器のパスを追加
+    "weapons/ChatGTPWeapon.hjson" // 武器のパスを追加
   ]
 }
