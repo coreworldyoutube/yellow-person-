@@ -1,1 +1,7 @@
-
+{
+  name: "rick Mindustry Expansion"
+  description: "[red]hi"
+  author: "CoreWorld"
+  version: "1.0.0"
+  minGameVersion: "136"
+}
