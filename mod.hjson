@@ -6,5 +6,6 @@
   minGameVersion: "146"
   content: [
   "weapons/juju50"
+  "blocks/juju50nyan-turret"
   ]
 }
