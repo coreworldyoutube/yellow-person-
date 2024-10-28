@@ -8,7 +8,7 @@
     "blocks/juju50.hjson"   // タレットのファイル名が正しいか確認
   ]
   bullets: [
-    "bullets/chatgtp-bullet.hjson"  // 弾薬のファイル名が正しいか確認
-  ]
+  "bullets/ChatGTP.hjson" // ファイル名を一致させる
+　]
 }
 
