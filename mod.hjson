@@ -1,16 +1,16 @@
 {
   name: "rick Mindustry Expansion"
-  description: "hi"  // 赤色のテキスト表示
+  description: "hi"
   author: "CoreWorld"
   version: "1.0.0"
-  minGameVersion: "146"    // ゲームバージョンが合っているか確認
+  minGameVersion: "146"
   blocks: [
-  "blocks/Juju50.hjson" // ファイル名を一致させる
-　]
+    "blocks/Juju50.hjson"
+  ]
   bullets: [
-  "bullets/ChatGTP.hjson" // ファイル名を一致させる
-　]
+    "bullets/ChatGTP.hjson"
+  ]
   weapons: [
-    "weapons/ChatGTPWeapon.hjson" // 武器のパスを追加
+    "weapons/chatgtp-weapon.hjson" // 小文字にする必要があります
   ]
 }
