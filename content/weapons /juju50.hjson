@@ -1,0 +1,22 @@
+{
+  name: "sample-weapon"
+  type: "Weapon"
+  
+  bullet: {
+    damage: 3               // 弾のダメージ
+    speed: 6.8              // 弾の速度
+    lifetime: 230           // 弾の寿命（フレーム単位）
+    width: 45               // 弾の幅
+    height: 10              // 弾の高さ
+    hitEffect: "hitBulletSmall" // 命中時のエフェクト
+  }
+
+  reload: 0                // リロード時間（フレーム単位）
+  inaccuracy: 1            // 命中精度の乱数範囲
+  alternate: true          // 左右交互に発射するか
+  x: 5                     // 武器のX座標
+  y: 25                    // 武器のY座標
+  recoil: 15               // 発射時の反動
+  rotate: true             // ターゲットに向けて回転させるか
+  mirror: true             // 鏡像対称に配置するか
+}
