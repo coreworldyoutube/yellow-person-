@@ -1,10 +1,10 @@
 // blocks/sample-turret.hjson
 {
-  name: "juju50nyan"
+  name: "juju50"
   type: "Turret"
   health: 666
   size: 3
   range: 900
   reload: 30
-  weapon: "juju50"  // 武器名を指定
+  weapon: "chatgtp-bullet"  // 武器名を指定
 }
