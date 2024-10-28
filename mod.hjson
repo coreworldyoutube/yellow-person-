@@ -5,10 +5,9 @@
   version: "1.0.0"
   minGameVersion: "146"    // ゲームバージョンが合っているか確認
   blocks: [
-    "blocks/juju50.hjson"   // タレットのファイル名が正しいか確認
-  ]
+  "blocks/Juju50.hjson" // ファイル名を一致させる
+　]
   bullets: [
   "bullets/ChatGTP.hjson" // ファイル名を一致させる
 　]
 }
-
