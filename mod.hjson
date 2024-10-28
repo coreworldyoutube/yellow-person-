@@ -4,4 +4,7 @@
   author: "CoreWorld"
   version: "1.0.0"
   minGameVersion: "146"
+　content: [
+  "weapons/juju50"
+　]
 }
