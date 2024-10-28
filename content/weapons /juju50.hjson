@@ -1,33 +1,28 @@
-{
-  name: "juju50"
-  type: "Weapon"
-
-  bullet: {
+name: "juju50"
+type: "Weapon"
+bullet: {
     damage: 3                // 弾のダメージ量
     speed: 6.8               // 弾の速度（高いほど速い）
     lifetime: 230            // 弾の寿命（フレーム数で設定）
     width: 45                // 弾の幅（見た目のサイズ）
     height: 10               // 弾の高さ（見た目のサイズ）
     hitEffect: "hitBulletSmall" // 命中時のエフェクトを小さめに設定
-  }
-
-  reload: 0                  // 0でリロード時間なし（連射可能）
-  inaccuracy: 1              // 弾道のばらつき（小さいほど正確）
-  alternate: true            // 左右交互に発射する設定
-  x: 5                       // 武器の横方向位置調整
-  y: 25                      // 武器の縦方向位置調整
-  recoil: 15                 // 発射時の反動量（後退距離）
-  rotate: true               // ターゲットに向かって武器が回転
-  mirror: true               // 鏡像対称に配置する設定
-
-  ammo: {
-    copper: {                // 銅弾薬の設定
-      damage: 5             // 銅弾薬のダメージ量
-      speed: 7.0            // 銅弾薬の速度
-    }
-    graphite: {              // グラファイト弾薬の設定
-      damage: 10            // グラファイト弾薬のダメージ量
-      speed: 6.0            // グラファイト弾薬の速度
-    }
-  }
+}
+reload: 0                  // 0でリロード時間なし（連射可能）
+inaccuracy: 1              // 弾道のばらつき（小さいほど正確）
+alternate: true            // 左右交互に発射する設定
+x: 5                       // 武器の横方向位置調整
+y: 25                      // 武器の縦方向位置調整
+recoil: 15                 // 発射時の反動量（後退距離）
+rotate: true               // ターゲットに向かって武器が回転
+mirror: true               // 鏡像対称に配置する設定
+ammo: {
+　　copper: {                // 銅弾薬の設定
+     damage: 5             // 銅弾薬のダメージ量
+     speed: 7.0            // 銅弾薬の速度
+　　}
+   graphite: {              // グラファイト弾薬の設定
+     damage: 10            // グラファイト弾薬のダメージ量
+     speed: 6.0            // グラファイト弾薬の速度
+   }
 }
