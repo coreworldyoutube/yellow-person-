@@ -3,5 +3,5 @@
   description: "[red]hi"
   author: "CoreWorld"
   version: "1.0.0"
-  minGameVersion: "136"
+  minGameVersion: "146"
 }
