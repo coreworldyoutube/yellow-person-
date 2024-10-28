@@ -4,8 +4,10 @@
   author: "CoreWorld"
   version: "1.0.0"
   minGameVersion: "146"
-  content: [
-  "bullets/chatgtp-bullet",
-  "blocks/juju50"
+  blocks: [
+    "blocks/juju50.hjson"
+  ]
+  bullets: [
+    "bullets/chatgtp-bullet.hjson"
   ]
 }
