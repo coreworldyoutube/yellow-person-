@@ -5,7 +5,7 @@
   version: "1.0.0"
   minGameVersion: "146"
   content: [
-  "bullets/ChatGTP",
+  "bullets/chatgtp-bullet",
   "blocks/juju50"
   ]
 }
