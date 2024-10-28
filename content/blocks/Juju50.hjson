@@ -6,5 +6,5 @@
   size: 3
   range: 900
   reload: 30
-  weapon: "chatgtp-bullet"  // 武器名を指定
+  bullet: "chatgtp-bullet"  // 武器名を指定
 }
