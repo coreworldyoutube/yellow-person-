@@ -1,4 +1,3 @@
-// blocks/sample-turret.hjson
 {
   name: "juju50"
   type: "Turret"
@@ -6,5 +5,5 @@
   size: 3
   range: 900
   reload: 30
-  weapon: "chatgtp-weapon"  // 正しい武器名を指定
+  weapon: "chatgtp-weapon" // 武器名を指定
 }
