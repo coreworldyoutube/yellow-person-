@@ -1,0 +1,14 @@
+{
+  name: "chatgtp-weapon" // 武器の名前
+  type: "Weapon"
+  
+  bullet: "chatgtp-bullet" // 使用する弾薬の名前
+  reload: 30                // リロード時間（フレーム単位）
+  inaccuracy: 1            // 命中精度の乱数範囲
+  alternate: true          // 左右交互に発射するか
+  x: 0                     // 武器のX座標
+  y: 0                     // 武器のY座標
+  recoil: 15               // 発射時の反動
+  rotate: true             // ターゲットに向けて回転させるか
+  mirror: true             // 鏡像対称に配置するか
+}
