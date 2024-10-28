@@ -1,0 +1,12 @@
+{
+  name: "chatgtp-bullet"
+  type: "Bullet"
+  damage: 12                     // 弾薬のダメージ
+  speed: 23                       // 弾薬の速度
+  lifetime: 60                   // 弾薬の寿命（フレーム単位）
+  width: 12                      // 弾薬の幅
+  height: 12                     // 弾薬の高さ
+  hitEffect: "hitExplosion"      // 命中時のエフェクト
+  explosionDamage: 95            // 爆発時のダメージ
+  explosionRadius: 95            // 爆発の半径
+}
